@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup
+This application is for wrting blogs for authenticated users and commenting on other users blogs.
 
 ## BDD
 
