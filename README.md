@@ -2,7 +2,7 @@
 
 ## Author 
 
-* Carol Wambui Muhia
+* Carol Wambui Muhia.
 
 ## Description
 
