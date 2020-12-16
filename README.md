@@ -13,7 +13,7 @@ This application is for wrting blogs for authenticated users and commenting on o
 | Behavior| input | output |
 | -------- | -------- | -------- |
 | Displays Home page   | click on sign up button on navbar and input your data | the app will save your data and create a new account for you |
-| you can view other comment or create your own | like and comment on other peoples pitches | post your comment |
+| you can view other comment or create your own | like and comment on other peoples blogs | post your comment |
 | Enter your profile and edit | add your bio and picture | publish your bio and pictures |
 |  |  | |
 
@@ -47,4 +47,4 @@ carolwambuidaystar@gmail.com
 
 this software license under MIT License
 
-Copyright (c) 2020 carol
+Copyright (c) 2020 carol wambui
